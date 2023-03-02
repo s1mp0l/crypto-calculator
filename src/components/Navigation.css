@@ -1,0 +1,19 @@
+.navContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.navContainer a {
+    padding: 5px 10px;
+    border-radius: 30px;
+    background: sandybrown;
+    color: white;
+    text-decoration: none;
+}
+
+.navContainer a.active {
+    background: orangered;
+}
