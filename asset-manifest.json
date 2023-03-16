@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/crypto-calculator.git/static/css/main.bbc1da1d.css",
+    "main.js": "/crypto-calculator.git/static/js/main.05aff687.js",
+    "index.html": "/crypto-calculator.git/index.html",
+    "main.bbc1da1d.css.map": "/crypto-calculator.git/static/css/main.bbc1da1d.css.map",
+    "main.05aff687.js.map": "/crypto-calculator.git/static/js/main.05aff687.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbc1da1d.css",
+    "static/js/main.05aff687.js"
+  ]
+}
