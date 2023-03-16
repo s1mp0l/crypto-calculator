@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.bbc1da1d.css",
-    "main.js": "/static/js/main.05aff687.js",
-    "index.html": "/index.html",
-    "main.bbc1da1d.css.map": "/static/css/main.bbc1da1d.css.map",
-    "main.05aff687.js.map": "/static/js/main.05aff687.js.map"
+    "main.css": "/crypto-calculator/static/css/main.bbc1da1d.css",
+    "main.js": "/crypto-calculator/static/js/main.05aff687.js",
+    "index.html": "/crypto-calculator/index.html",
+    "main.bbc1da1d.css.map": "/crypto-calculator/static/css/main.bbc1da1d.css.map",
+    "main.05aff687.js.map": "/crypto-calculator/static/js/main.05aff687.js.map"
   },
   "entrypoints": [
     "static/css/main.bbc1da1d.css",
